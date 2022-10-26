@@ -5,6 +5,7 @@
             "resultId": "vf1_extended_queue_info_enter_vh1a_pred",
             "locationId": "EBFEE98D-F533-4A62-8A74-BAD4BE1BFDFF",
             "locationDescription": "Prediction Enter VH1a to Start Process",
+            "isQueuePresent": true,
             "updated": "2022-10-13T12:24:00.000Z",
             "open": true,
             "openingHours": {
@@ -42,6 +43,7 @@
             "resultId": "vf1_extended_queue_info_exit_vh1a_indicator",
             "locationId": "EBFEE98D-F533-4A62-8A74-BAD4BE1BFDFF",
             "locationDescription": "Exiting VH1a Corridor Indicator",
+            "isQueuePresent": true,
             "updated": "2022-10-20T11:30:00.000Z",
             "open": true,
             "openingHours": {
